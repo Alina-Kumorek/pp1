@@ -1,0 +1,44 @@
+if condition:
+    instruction
+
+
+if condition:
+    instruction1
+else:
+    instruction2
+
+
+if condition1:
+    instruction1
+elif condition2:
+    instruction2
+elif condition3:
+    instruction3
+else:
+    instruction4
+
+
+for i in something:
+    instruction
+
+
+while condition:
+    instruction
+
+
+i = integer
+while i:
+    i -= 1
+
+
+while condition1:
+    if condition2:
+        break
+
+
+i = integer
+while i:
+    i -= 1
+    if condition:
+        continue
+    instruction
