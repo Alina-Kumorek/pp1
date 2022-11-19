@@ -1,0 +1,2 @@
+# An array contains a list of Polish names: Genowefa, Onufry, Celestyna, Alojzy, Pankracy.
+# Create a program that displays the longest name (consisting of the largest number of characters). Sample result:
