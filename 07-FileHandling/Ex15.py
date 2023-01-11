@@ -5,7 +5,7 @@
 run = True
 options = ["", "q", "Q"]
 
-f = open("pan-tadeusz.txt", "r", 1, "UTF-8")
+f = open("pan-tadeusz.txt", encoding="UTF-8")
 
 while run:
     for i in range(5):

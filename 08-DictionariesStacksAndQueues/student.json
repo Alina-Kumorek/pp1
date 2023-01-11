@@ -1,0 +1,17 @@
+{
+    "name": "John Doe",
+    "birth_year": 1998,
+    "grades": [
+        3.0,
+        3.0,
+        4.0,
+        3.5,
+        5.0
+    ],
+    "adress": {
+        "city": "Cracow",
+        "street": "Rakowicka",
+        "building_number": 43,
+        "apartment_number": 12
+    }
+}
